@@ -1,0 +1,4 @@
+#!/bin/bash -e
+cat <<EOF
+This is the nc-centos7 S2I image:
+EOF
